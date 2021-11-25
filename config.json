@@ -1,5 +1,5 @@
 {
-  "defaultHomeserver": 5,
+  "defaultHomeserver": "matrix.org",
   "homeserverList": [
     "matrix.org",
     "converser.eu",
